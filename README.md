@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Palakgupta0908
 - 👀 I’m interested in java and web development.
-- 🌱 I’m currently learning bootstrap and javaScript.
 - 🌈 I have a sound Knowledge of Java and Data Structures.
 - 📫 You can email me on palakgupta9933@gmail.com
 
