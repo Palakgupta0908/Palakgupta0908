@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Gupta</h1>
-<h3 align="center">A Girl who love to code!!</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
  - 🏫 I am a pre-final year student pursuing a Bachelor’s degree in Electronics and Communication from Lakshmi Narain College of Technology Bhopal.
